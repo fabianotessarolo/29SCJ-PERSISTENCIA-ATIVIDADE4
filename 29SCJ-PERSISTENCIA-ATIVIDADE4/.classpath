@@ -11,7 +11,7 @@
 	<classpathentry kind="lib" path="lib/hibernate/dom4j-1.6.1.jar"/>
 	<classpathentry kind="lib" path="lib/hibernate/hibernate-commons-annotations-5.0.1.Final.jar"/>
 	<classpathentry kind="lib" path="lib/hibernate/hibernate-core-5.2.10.Final.jar"/>
-	<classpathentry kind="lib" path="lib/hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar" sourcepath="lib/hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
 	<classpathentry kind="lib" path="lib/hibernate/jandex-2.0.3.Final.jar"/>
 	<classpathentry kind="lib" path="lib/hibernate/javassist-3.20.0-GA.jar"/>
 	<classpathentry kind="lib" path="lib/hibernate/jboss-logging-3.3.0.Final.jar"/>
